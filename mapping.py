@@ -39,7 +39,7 @@ def read_in_data():
 
 import matplotlib.colors as colors
 import matplotlib.cm as cmx
-cm = plt.get_cmap('gist_rainbow') 
+cm = plt.get_cmap('gnuplot') 
 cNorm  = colors.Normalize(vmin=0, vmax=log(100)) #percentages
 scalarMap = cmx.ScalarMappable(norm=cNorm, cmap=cm)
 
@@ -81,7 +81,7 @@ def graph_a_thing(m, values, language, project):
           if value == 0:
               color = (0.0, 0.0, 0.0, 0.0)
           else:
-              color = scalarMap.to_rgba(log(value))
+              color = scalarMap.to_rgba(log(100)-log(value))
           plt.fill(x,y, facecolor=color, edgecolor='none')
 
     plt.axis('equal')
@@ -91,17 +91,14 @@ def graph_a_thing(m, values, language, project):
 
     plt.axis('off')
 
-    b1 = ax.bar([0, 1, 2], [0.2, 0.3, 0.1], color=scalarMap.to_rgba(log(100)), width=0.4, align="edge")
-    b2 = ax.bar([0, 1, 2], [0.2, 0.3, 0.1], color=scalarMap.to_rgba(log(50)), width=0.4, align="edge")
-    b3 = ax.bar([0, 1, 2], [0.2, 0.3, 0.1], color=scalarMap.to_rgba(log(25)), width=0.4, align="edge")
-    b4 = ax.bar([0, 1, 2], [0.2, 0.3, 0.1], color=scalarMap.to_rgba(log(12)), width=0.4, align="edge")
-    b5 = ax.bar([0, 1, 2], [0.2, 0.3, 0.1], color=scalarMap.to_rgba(log(6)), width=0.4, align="edge")
-    b6 = ax.bar([0, 1, 2], [0.2, 0.3, 0.1], color=scalarMap.to_rgba(log(3)), width=0.4, align="edge")
-    b7 = ax.bar([0, 1, 2], [0.2, 0.3, 0.1], color=scalarMap.to_rgba(log(1)), width=0.4, align="edge")
+    percentages = [100, 50, 25, 12, 6, 3, 1]
+    labels = [ax.bar([0, 1, 2], [0.2, 0.3, 0.1],
+                      color=scalarMap.to_rgba(log(100)-log(percentage)), 
+                      width=0.4, align="edge") 
+              for percentage in percentages]
+    label_titles = [str(percentage)+"%" for percentage in percentages]
 
-    ax.legend([b1, b2, b3, b4, b5, b6, b7], 
-              ["100%", "50%", "25%", "12%", "6%", "3%", "1%"],
-              loc=3)
+    ax.legend(labels, label_titles, loc=3)
 
     title = language.decode('utf8') + " " + project.decode("utf8")
     print(title)
