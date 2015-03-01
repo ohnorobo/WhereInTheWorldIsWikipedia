@@ -15,7 +15,7 @@ def read_in_shapefile():
   b = Basemap(projection="robin", lon_0=0, lat_0=0)
 
   print("reading in file")
-  countries = b.readshapefile("./data/50/ne_50m_admin_0_countries", "countries") #secondary
+  countries = b.readshapefile("./data/50/ne_50m_admin_0_countries", "countries", color="#3B3B3B", linewidth=.2) #secondary
   print("read in file")
   return b
 
