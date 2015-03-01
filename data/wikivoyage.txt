@@ -1,0 +1,16 @@
+Chinese-zh.wikivoyage.org.png
+Dutch-nl.wikivoyage.org.png
+English-en.wikivoyage.org.png
+French-fr.wikivoyage.org.png
+German-de.wikivoyage.org.png
+Greek-el.wikivoyage.org.png
+Hebrew-he.wikivoyage.org.png
+Italian-it.wikivoyage.org.png
+Polish-pl.wikivoyage.org.png
+Portuguese-pt.wikivoyage.org.png
+Romanian-ro.wikivoyage.org.png
+Russian-ru.wikivoyage.org.png
+Spanish-es.wikivoyage.org.png
+Swedish-sv.wikivoyage.org.png
+Ukrainian-uk.wikivoyage.org.png
+Vietnamese-vi.wikivoyage.org.png

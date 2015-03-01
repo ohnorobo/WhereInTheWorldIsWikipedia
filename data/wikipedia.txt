@@ -1,0 +1,285 @@
+Abkhazian-ab.wikipedia.org.png
+Achinese-ace.wikipedia.org.png
+Afar-aa.wikipedia.org.png
+Afrikaans-af.wikipedia.org.png
+Akan-ak.wikipedia.org.png
+Albanian-sq.wikipedia.org.png
+Alemannisch-als.wikipedia.org.png
+Amharic-am.wikipedia.org.png
+Arabic-ar.wikipedia.org.png
+Aragonese-an.wikipedia.org.png
+Aramaic-arc.wikipedia.org.png
+Armenian-hy.wikipedia.org.png
+Aromanian-roa-rup.wikipedia.org.png
+Assamese-as.wikipedia.org.png
+Asturian-ast.wikipedia.org.png
+Avaric-av.wikipedia.org.png
+Aymara-ay.wikipedia.org.png
+Azerbaijani-az.wikipedia.org.png
+Bambara-bm.wikipedia.org.png
+Banjar-bjn.wikipedia.org.png
+Basa Banyumasan-map-bms.wikipedia.org.png
+Bashkir-ba.wikipedia.org.png
+Basque-eu.wikipedia.org.png
+Bavarian-bar.wikipedia.org.png
+Belarusian-be.wikipedia.org.png
+Bengali-bn.wikipedia.org.png
+Bikol Central-bcl.wikipedia.org.png
+Bishnupuriya Manipuri-bpy.wikipedia.org.png
+Bislama-bi.wikipedia.org.png
+Bosnian-bs.wikipedia.org.png
+Breton-br.wikipedia.org.png
+Buginese-bug.wikipedia.org.png
+Bulgarian-bg.wikipedia.org.png
+Burmese-my.wikipedia.org.png
+Cantonese-zh-yue.wikipedia.org.png
+Catalan-ca.wikipedia.org.png
+Cebuano-ceb.wikipedia.org.png
+Chamorro-ch.wikipedia.org.png
+Chavacano de Zamboanga-cbk-zam.wikipedia.org.png
+Chechen-ce.wikipedia.org.png
+Cherokee-chr.wikipedia.org.png
+Cheyenne-chy.wikipedia.org.png
+Chinese (Min Nan)-zh-min-nan.wikipedia.org.png
+Chinese-zh.wikipedia.org.png
+Choctaw-cho.wikipedia.org.png
+Church Slavic-cu.wikipedia.org.png
+Chuvash-cv.wikipedia.org.png
+Classical Chinese-zh-classical.wikipedia.org.png
+Colognian-ksh.wikipedia.org.png
+Cornish-kw.wikipedia.org.png
+Corsican-co.wikipedia.org.png
+Cree-cr.wikipedia.org.png
+Creek-mus.wikipedia.org.png
+Crimean Turkish-crh.wikipedia.org.png
+Croatian-hr.wikipedia.org.png
+Czech-cs.wikipedia.org.png
+Danish-da.wikipedia.org.png
+Deitsch-pdc.wikipedia.org.png
+Divehi-dv.wikipedia.org.png
+Dutch-nl.wikipedia.org.png
+Dzongkha-dz.wikipedia.org.png
+Eastern Mari-mhr.wikipedia.org.png
+Egyptian Spoken Arabic-arz.wikipedia.org.png
+Emiliano-Romagnolo-eml.wikipedia.org.png
+English-en.wikipedia.org.png
+Erzya-myv.wikipedia.org.png
+Esperanto-eo.wikipedia.org.png
+Estonian-et.wikipedia.org.png
+Ewe-ee.wikipedia.org.png
+Extremaduran-ext.wikipedia.org.png
+Faroese-fo.wikipedia.org.png
+Fiji Hindi-hif.wikipedia.org.png
+Fijian-fj.wikipedia.org.png
+Finnish-fi.wikipedia.org.png
+Franco-Provençal-frp.wikipedia.org.png
+French-fr.wikipedia.org.png
+Friulian-fur.wikipedia.org.png
+Fulah-ff.wikipedia.org.png
+Gagauz-gag.wikipedia.org.png
+Galician-gl.wikipedia.org.png
+Gan-gan.wikipedia.org.png
+Ganda-lg.wikipedia.org.png
+Georgian-ka.wikipedia.org.png
+German-de.wikipedia.org.png
+Gilaki-glk.wikipedia.org.png
+Gothic-got.wikipedia.org.png
+Greek-el.wikipedia.org.png
+Guarani-gn.wikipedia.org.png
+Gujarati-gu.wikipedia.org.png
+Haitian-ht.wikipedia.org.png
+Hakka-hak.wikipedia.org.png
+Hausa-ha.wikipedia.org.png
+Hawaiian-haw.wikipedia.org.png
+Hebrew-he.wikipedia.org.png
+Herero-hz.wikipedia.org.png
+Hill Mari-mrj.wikipedia.org.png
+Hindi-hi.wikipedia.org.png
+Hiri Motu-ho.wikipedia.org.png
+Hungarian-hu.wikipedia.org.png
+Icelandic-is.wikipedia.org.png
+Ido-io.wikipedia.org.png
+Igbo-ig.wikipedia.org.png
+Iloko-ilo.wikipedia.org.png
+Indonesian-id.wikipedia.org.png
+Interlingua-ia.wikipedia.org.png
+Interlingue-ie.wikipedia.org.png
+Inuktitut-iu.wikipedia.org.png
+Inupiaq-ik.wikipedia.org.png
+Irish-ga.wikipedia.org.png
+Italian-it.wikipedia.org.png
+Japanese-ja.wikipedia.org.png
+Javanese-jv.wikipedia.org.png
+Kabardian-kbd.wikipedia.org.png
+Kabyle-kab.wikipedia.org.png
+Kalaallisut-kl.wikipedia.org.png
+Kalmyk-xal.wikipedia.org.png
+Kannada-kn.wikipedia.org.png
+Kanuri-kr.wikipedia.org.png
+Kara-Kalpak-kaa.wikipedia.org.png
+Karachay-Balkar-krc.wikipedia.org.png
+Kashmiri-ks.wikipedia.org.png
+Kashubian-csb.wikipedia.org.png
+Kazakh-kk.wikipedia.org.png
+Khmer-km.wikipedia.org.png
+Kikuyu-ki.wikipedia.org.png
+Kinyarwanda-rw.wikipedia.org.png
+Komi-Permyak-koi.wikipedia.org.png
+Komi-kv.wikipedia.org.png
+Kongo-kg.wikipedia.org.png
+Korean-ko.wikipedia.org.png
+Kuanyama-kj.wikipedia.org.png
+Kurdish-ku.wikipedia.org.png
+Kyrgyz-ky.wikipedia.org.png
+Ladino-lad.wikipedia.org.png
+Lao-lo.wikipedia.org.png
+Latgalian-ltg.wikipedia.org.png
+Latin-la.wikipedia.org.png
+Latvian-lv.wikipedia.org.png
+Lezghian-lez.wikipedia.org.png
+Ligure-lij.wikipedia.org.png
+Limburgish-li.wikipedia.org.png
+Lingala-ln.wikipedia.org.png
+Lithuanian-lt.wikipedia.org.png
+Lojban-jbo.wikipedia.org.png
+Low German-nds.wikipedia.org.png
+Low Saxon (Netherlands)-nds-nl.wikipedia.org.png
+Lower Sorbian-dsb.wikipedia.org.png
+Luxembourgish-lb.wikipedia.org.png
+Macedonian-mk.wikipedia.org.png
+Malagasy-mg.wikipedia.org.png
+Malay-ms.wikipedia.org.png
+Malayalam-ml.wikipedia.org.png
+Maltese-mt.wikipedia.org.png
+Manx-gv.wikipedia.org.png
+Maori-mi.wikipedia.org.png
+Marathi-mr.wikipedia.org.png
+Marshallese-mh.wikipedia.org.png
+Mazanderani-mzn.wikipedia.org.png
+Min Dong Chinese-cdo.wikipedia.org.png
+Minangkabau-min.wikipedia.org.png
+Mingrelian-xmf.wikipedia.org.png
+Mirandese-mwl.wikipedia.org.png
+Moksha-mdf.wikipedia.org.png
+Mongolian-mn.wikipedia.org.png
+Nauru-na.wikipedia.org.png
+Navajo-nv.wikipedia.org.png
+Nāhuatl-nah.wikipedia.org.png
+Ndonga-ng.wikipedia.org.png
+Neapolitan-nap.wikipedia.org.png
+Nepali-ne.wikipedia.org.png
+Newari-new.wikipedia.org.png
+Northern Frisian-frr.wikipedia.org.png
+Northern Sami-se.wikipedia.org.png
+Northern Sotho-nso.wikipedia.org.png
+Norwegian (bokmål)-no.wikipedia.org.png
+Norwegian Nynorsk-nn.wikipedia.org.png
+Nouormand-nrm.wikipedia.org.png
+Novial-nov.wikipedia.org.png
+Nyanja-ny.wikipedia.org.png
+Occitan-oc.wikipedia.org.png
+Old English-ang.wikipedia.org.png
+Oriya-or.wikipedia.org.png
+Oromo-om.wikipedia.org.png
+Ossetic-os.wikipedia.org.png
+Pali-pi.wikipedia.org.png
+Pampanga-pam.wikipedia.org.png
+Pangasinan-pag.wikipedia.org.png
+Papiamento-pap.wikipedia.org.png
+Pashto-ps.wikipedia.org.png
+Pälzisch-pfl.wikipedia.org.png
+Persian-fa.wikipedia.org.png
+Picard-pcd.wikipedia.org.png
+Piedmontese-pms.wikipedia.org.png
+Polish-pl.wikipedia.org.png
+Pontic-pnt.wikipedia.org.png
+Portuguese-pt.wikipedia.org.png
+Punjabi-pa.wikipedia.org.png
+Quechua-qu.wikipedia.org.png
+Romani-rmy.wikipedia.org.png
+Romanian-ro.wikipedia.org.png
+Romansh-rm.wikipedia.org.png
+Rundi-rn.wikipedia.org.png
+Russian-ru.wikipedia.org.png
+Rusyn-rue.wikipedia.org.png
+Sakha-sah.wikipedia.org.png
+Samoan-sm.wikipedia.org.png
+Samogitian-bat-smg.wikipedia.org.png
+Sango-sg.wikipedia.org.png
+Sanskrit-sa.wikipedia.org.png
+Sardinian-sc.wikipedia.org.png
+Scots-sco.wikipedia.org.png
+Scottish Gaelic-gd.wikipedia.org.png
+Seeltersk-stq.wikipedia.org.png
+Serbian-sr.wikipedia.org.png
+Serbo-Croatian-sh.wikipedia.org.png
+Shona-sn.wikipedia.org.png
+Sichuan Yi-ii.wikipedia.org.png
+Sicilian-scn.wikipedia.org.png
+Silesian-szl.wikipedia.org.png
+Simple English-simple.wikipedia.org.png
+Sindhi-sd.wikipedia.org.png
+Sinhala-si.wikipedia.org.png
+Slovak-sk.wikipedia.org.png
+Slovenian-sl.wikipedia.org.png
+Somali-so.wikipedia.org.png
+Sorani Kurdish-ckb.wikipedia.org.png
+Southern Sotho-st.wikipedia.org.png
+Spanish-es.wikipedia.org.png
+Sranan Tongo-srn.wikipedia.org.png
+Sundanese-su.wikipedia.org.png
+Swahili-sw.wikipedia.org.png
+Swati-ss.wikipedia.org.png
+Swedish-sv.wikipedia.org.png
+Tagalog-tl.wikipedia.org.png
+Tahitian-ty.wikipedia.org.png
+Tajik-tg.wikipedia.org.png
+Tamil-ta.wikipedia.org.png
+Tatar-tt.wikipedia.org.png
+Telugu-te.wikipedia.org.png
+Tetum-tet.wikipedia.org.png
+Thai-th.wikipedia.org.png
+Tibetan-bo.wikipedia.org.png
+Tigrinya-ti.wikipedia.org.png
+Tok Pisin-tpi.wikipedia.org.png
+Tongan-to.wikipedia.org.png
+Tsonga-ts.wikipedia.org.png
+Tswana-tn.wikipedia.org.png
+Tumbuka-tum.wikipedia.org.png
+Turkish-tr.wikipedia.org.png
+Turkmen-tk.wikipedia.org.png
+Tuvinian-tyv.wikipedia.org.png
+Twi-tw.wikipedia.org.png
+Udmurt-udm.wikipedia.org.png
+Ukrainian-uk.wikipedia.org.png
+Upper Sorbian-hsb.wikipedia.org.png
+Urdu-ur.wikipedia.org.png
+Uyghur-ug.wikipedia.org.png
+Venda-ve.wikipedia.org.png
+Veps-vep.wikipedia.org.png
+Vietnamese-vi.wikipedia.org.png
+Volapük-vo.wikipedia.org.png
+Võro-fiu-vro.wikipedia.org.png
+Walloon-wa.wikipedia.org.png
+Waray-war.wikipedia.org.png
+Welsh-cy.wikipedia.org.png
+West-Vlams-vls.wikipedia.org.png
+Western Frisian-fy.wikipedia.org.png
+Western Punjabi-pnb.wikipedia.org.png
+Wolof-wo.wikipedia.org.png
+Wu-wuu.wikipedia.org.png
+Xhosa-xh.wikipedia.org.png
+Yiddish-yi.wikipedia.org.png
+Yoruba-yo.wikipedia.org.png
+Zazaki-diq.wikipedia.org.png
+Zeeuws-zea.wikipedia.org.png
+Zhuang-za.wikipedia.org.png
+Zulu-zu.wikipedia.org.png
+lumbaart-lmo.wikipedia.org.png
+tarandíne-roa-tara.wikipedia.org.png
+vèneto-vec.wikipedia.org.png
+лакку-lbe.wikipedia.org.png
+буряад-bxr.wikipedia.org.png
+भोजपुरी-bh.wikipedia.org.png
+беларуская (тарашкевіца)-be-x-old.wikipedia.org.png
+молдовеняскэ-mo.wikipedia.org.png

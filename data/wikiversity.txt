@@ -1,0 +1,15 @@
+Arabic-ar.wikiversity.org.png
+Czech-cs.wikiversity.org.png
+English-en.wikiversity.org.png
+Finnish-fi.wikiversity.org.png
+French-fr.wikiversity.org.png
+German-de.wikiversity.org.png
+Greek-el.wikiversity.org.png
+Italian-it.wikiversity.org.png
+Japanese-ja.wikiversity.org.png
+Korean-ko.wikiversity.org.png
+Portuguese-pt.wikiversity.org.png
+Russian-ru.wikiversity.org.png
+Slovenian-sl.wikiversity.org.png
+Spanish-es.wikiversity.org.png
+Swedish-sv.wikiversity.org.png
