@@ -1,7 +1,7 @@
 
 
 
-Wikipedia Mapping
+Wikipedia Contribution Mapping
 
 All Project Data
 
@@ -15,4 +15,4 @@ All Project Data
 
 CC-0 public domain dedication
 
-https://creativecommons.org/publicdomain/zero/1.0/'
+https://creativecommons.org/publicdomain/zero/1.0/
