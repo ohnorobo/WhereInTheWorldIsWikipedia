@@ -3,6 +3,18 @@
 
 Wikipedia Contribution Mapping
 
+[Wikipedia](https://github.com/ohnorobo/WhereInTheWorldIsWikipedia/blob/master/wikipedia.md)
+[Wikibooks](https://github.com/ohnorobo/WhereInTheWorldIsWikipedia/blob/master/wikibooks.md)
+[Wikinews](https://github.com/ohnorobo/WhereInTheWorldIsWikipedia/blob/master/wikinews.md)
+[Wikiquote](https://github.com/ohnorobo/WhereInTheWorldIsWikipedia/blob/master/wikiquote.md)
+[Wikisource](https://github.com/ohnorobo/WhereInTheWorldIsWikipedia/blob/master/wikisource.md)
+[Wikiversity](https://github.com/ohnorobo/WhereInTheWorldIsWikipedia/blob/master/wikiversity.md)
+[Wikivoyage](https://github.com/ohnorobo/WhereInTheWorldIsWikipedia/blob/master/wikivoyage.md)
+[Wiktionary](https://github.com/ohnorobo/WhereInTheWorldIsWikipedia/blob/master/wiktionary.md)
+
+
+
+
 All Project Data
 
 ![All Projects](/images/All projects-All projects.png)
