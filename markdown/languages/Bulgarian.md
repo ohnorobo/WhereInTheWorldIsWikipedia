@@ -1,0 +1,6 @@
+![](images/Bulgarian-bg.wikibooks.org.png)
+![](images/Bulgarian-bg.wikinews.org.png)
+![](images/Bulgarian-bg.wikipedia.org.png)
+![](images/Bulgarian-bg.wikiquote.org.png)
+![](images/Bulgarian-bg.wikisource.org.png)
+![](images/Bulgarian-bg.wiktionary.org.png)

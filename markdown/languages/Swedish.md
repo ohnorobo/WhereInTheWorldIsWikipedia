@@ -1,0 +1,8 @@
+![](images/Swedish-sv.wikibooks.org.png)
+![](images/Swedish-sv.wikinews.org.png)
+![](images/Swedish-sv.wikipedia.org.png)
+![](images/Swedish-sv.wikiquote.org.png)
+![](images/Swedish-sv.wikisource.org.png)
+![](images/Swedish-sv.wikiversity.org.png)
+![](images/Swedish-sv.wikivoyage.org.png)
+![](images/Swedish-sv.wiktionary.org.png)

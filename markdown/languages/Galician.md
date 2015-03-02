@@ -1,0 +1,5 @@
+![](images/Galician-gl.wikibooks.org.png)
+![](images/Galician-gl.wikipedia.org.png)
+![](images/Galician-gl.wikiquote.org.png)
+![](images/Galician-gl.wikisource.org.png)
+![](images/Galician-gl.wiktionary.org.png)

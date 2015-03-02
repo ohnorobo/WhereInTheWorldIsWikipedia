@@ -1,0 +1,8 @@
+![](images/Russian-ru.wikibooks.org.png)
+![](images/Russian-ru.wikinews.org.png)
+![](images/Russian-ru.wikipedia.org.png)
+![](images/Russian-ru.wikiquote.org.png)
+![](images/Russian-ru.wikisource.org.png)
+![](images/Russian-ru.wikiversity.org.png)
+![](images/Russian-ru.wikivoyage.org.png)
+![](images/Russian-ru.wiktionary.org.png)

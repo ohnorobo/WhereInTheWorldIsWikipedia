@@ -1,0 +1,6 @@
+![](images/Slovenian-sl.wikibooks.org.png)
+![](images/Slovenian-sl.wikipedia.org.png)
+![](images/Slovenian-sl.wikiquote.org.png)
+![](images/Slovenian-sl.wikisource.org.png)
+![](images/Slovenian-sl.wikiversity.org.png)
+![](images/Slovenian-sl.wiktionary.org.png)

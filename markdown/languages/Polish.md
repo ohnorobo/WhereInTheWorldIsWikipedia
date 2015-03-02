@@ -1,0 +1,7 @@
+![](images/Polish-pl.wikibooks.org.png)
+![](images/Polish-pl.wikinews.org.png)
+![](images/Polish-pl.wikipedia.org.png)
+![](images/Polish-pl.wikiquote.org.png)
+![](images/Polish-pl.wikisource.org.png)
+![](images/Polish-pl.wikivoyage.org.png)
+![](images/Polish-pl.wiktionary.org.png)

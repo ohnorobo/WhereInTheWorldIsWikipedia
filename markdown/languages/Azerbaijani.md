@@ -1,0 +1,5 @@
+![](images/Azerbaijani-az.wikibooks.org.png)
+![](images/Azerbaijani-az.wikipedia.org.png)
+![](images/Azerbaijani-az.wikiquote.org.png)
+![](images/Azerbaijani-az.wikisource.org.png)
+![](images/Azerbaijani-az.wiktionary.org.png)

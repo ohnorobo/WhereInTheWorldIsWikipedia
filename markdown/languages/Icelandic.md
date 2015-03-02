@@ -1,0 +1,5 @@
+![](images/Icelandic-is.wikibooks.org.png)
+![](images/Icelandic-is.wikipedia.org.png)
+![](images/Icelandic-is.wikiquote.org.png)
+![](images/Icelandic-is.wikisource.org.png)
+![](images/Icelandic-is.wiktionary.org.png)

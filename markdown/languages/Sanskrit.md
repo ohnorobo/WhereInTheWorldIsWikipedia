@@ -1,0 +1,5 @@
+![](images/Sanskrit-sa.wikibooks.org.png)
+![](images/Sanskrit-sa.wikipedia.org.png)
+![](images/Sanskrit-sa.wikiquote.org.png)
+![](images/Sanskrit-sa.wikisource.org.png)
+![](images/Sanskrit-sa.wiktionary.org.png)

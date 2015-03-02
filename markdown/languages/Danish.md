@@ -1,0 +1,5 @@
+![](images/Danish-da.wikibooks.org.png)
+![](images/Danish-da.wikipedia.org.png)
+![](images/Danish-da.wikiquote.org.png)
+![](images/Danish-da.wikisource.org.png)
+![](images/Danish-da.wiktionary.org.png)

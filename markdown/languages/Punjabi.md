@@ -1,0 +1,5 @@
+![](images/Punjabi-pa.wikibooks.org.png)
+![](images/Punjabi-pa.wikipedia.org.png)
+![](images/Punjabi-pa.wiktionary.org.png)
+![](images/Western Punjabi-pnb.wikipedia.org.png)
+![](images/Western Punjabi-pnb.wiktionary.org.png)

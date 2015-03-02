@@ -1,0 +1,6 @@
+![](images/Thai-th.wikibooks.org.png)
+![](images/Thai-th.wikinews.org.png)
+![](images/Thai-th.wikipedia.org.png)
+![](images/Thai-th.wikiquote.org.png)
+![](images/Thai-th.wikisource.org.png)
+![](images/Thai-th.wiktionary.org.png)

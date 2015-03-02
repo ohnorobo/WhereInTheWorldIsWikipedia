@@ -1,0 +1,7 @@
+![](images/Ukrainian-uk.wikibooks.org.png)
+![](images/Ukrainian-uk.wikinews.org.png)
+![](images/Ukrainian-uk.wikipedia.org.png)
+![](images/Ukrainian-uk.wikiquote.org.png)
+![](images/Ukrainian-uk.wikisource.org.png)
+![](images/Ukrainian-uk.wikivoyage.org.png)
+![](images/Ukrainian-uk.wiktionary.org.png)

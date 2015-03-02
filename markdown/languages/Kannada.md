@@ -1,0 +1,5 @@
+![](images/Kannada-kn.wikibooks.org.png)
+![](images/Kannada-kn.wikipedia.org.png)
+![](images/Kannada-kn.wikiquote.org.png)
+![](images/Kannada-kn.wikisource.org.png)
+![](images/Kannada-kn.wiktionary.org.png)

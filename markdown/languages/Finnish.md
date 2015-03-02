@@ -1,0 +1,7 @@
+![](images/Finnish-fi.wikibooks.org.png)
+![](images/Finnish-fi.wikinews.org.png)
+![](images/Finnish-fi.wikipedia.org.png)
+![](images/Finnish-fi.wikiquote.org.png)
+![](images/Finnish-fi.wikisource.org.png)
+![](images/Finnish-fi.wikiversity.org.png)
+![](images/Finnish-fi.wiktionary.org.png)

@@ -1,0 +1,5 @@
+![](images/Latin-la.wikibooks.org.png)
+![](images/Latin-la.wikipedia.org.png)
+![](images/Latin-la.wikiquote.org.png)
+![](images/Latin-la.wikisource.org.png)
+![](images/Latin-la.wiktionary.org.png)

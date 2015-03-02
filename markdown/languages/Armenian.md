@@ -1,0 +1,5 @@
+![](images/Armenian-hy.wikibooks.org.png)
+![](images/Armenian-hy.wikipedia.org.png)
+![](images/Armenian-hy.wikiquote.org.png)
+![](images/Armenian-hy.wikisource.org.png)
+![](images/Armenian-hy.wiktionary.org.png)

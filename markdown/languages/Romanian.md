@@ -1,0 +1,7 @@
+![](images/Romanian-ro.wikibooks.org.png)
+![](images/Romanian-ro.wikinews.org.png)
+![](images/Romanian-ro.wikipedia.org.png)
+![](images/Romanian-ro.wikiquote.org.png)
+![](images/Romanian-ro.wikisource.org.png)
+![](images/Romanian-ro.wikivoyage.org.png)
+![](images/Romanian-ro.wiktionary.org.png)

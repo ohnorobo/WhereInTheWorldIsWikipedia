@@ -1,0 +1,5 @@
+![](images/Indonesian-id.wikibooks.org.png)
+![](images/Indonesian-id.wikipedia.org.png)
+![](images/Indonesian-id.wikiquote.org.png)
+![](images/Indonesian-id.wikisource.org.png)
+![](images/Indonesian-id.wiktionary.org.png)
