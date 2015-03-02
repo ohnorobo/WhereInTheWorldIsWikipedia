@@ -11,14 +11,14 @@
 
 ## Per-project and per-language breakouts
 
-[Wikipedia](https://github.com/ohnorobo/WhereInTheWorldIsWikipedia/blob/master/wikipedia.md)
-[Wikibooks](https://github.com/ohnorobo/WhereInTheWorldIsWikipedia/blob/master/wikibooks.md)
-[Wikinews](https://github.com/ohnorobo/WhereInTheWorldIsWikipedia/blob/master/wikinews.md)
-[Wikiquote](https://github.com/ohnorobo/WhereInTheWorldIsWikipedia/blob/master/wikiquote.md)
-[Wikisource](https://github.com/ohnorobo/WhereInTheWorldIsWikipedia/blob/master/wikisource.md)
-[Wikiversity](https://github.com/ohnorobo/WhereInTheWorldIsWikipedia/blob/master/wikiversity.md)
-[Wikivoyage](https://github.com/ohnorobo/WhereInTheWorldIsWikipedia/blob/master/wikivoyage.md)
-[Wiktionary](https://github.com/ohnorobo/WhereInTheWorldIsWikipedia/blob/master/wiktionary.md)
+[Wikipedia](https://github.com/ohnorobo/WhereInTheWorldIsWikipedia/blob/master/markdown/projects/wikipedia.md)
+[Wikibooks](https://github.com/ohnorobo/WhereInTheWorldIsWikipedia/blob/master/markdown/projects/wikibooks.md)
+[Wikinews](https://github.com/ohnorobo/WhereInTheWorldIsWikipedia/blob/master/markdown/projects/wikinews.md)
+[Wikiquote](https://github.com/ohnorobo/WhereInTheWorldIsWikipedia/blob/master/markdown/projects/wikiquote.md)
+[Wikisource](https://github.com/ohnorobo/WhereInTheWorldIsWikipedia/blob/master/markdown/projects/wikisource.md)
+[Wikiversity](https://github.com/ohnorobo/WhereInTheWorldIsWikipedia/blob/master/markdown/projects/wikiversity.md)
+[Wikivoyage](https://github.com/ohnorobo/WhereInTheWorldIsWikipedia/blob/master/markdown/projects/wikivoyage.md)
+[Wiktionary](https://github.com/ohnorobo/WhereInTheWorldIsWikipedia/blob/master/markdown/projects/wiktionary.md)
 
 
 ##Data preparation
