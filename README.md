@@ -292,7 +292,7 @@
 · [Walloon](https://github.com/ohnorobo/WhereInTheWorldIsWikipedia/blob/master/markdown/languages/Walloon.md)
 · [Waray](https://github.com/ohnorobo/WhereInTheWorldIsWikipedia/blob/master/markdown/languages/Waray.md)
 · [Welsh](https://github.com/ohnorobo/WhereInTheWorldIsWikipedia/blob/master/markdown/languages/Welsh.md)
-· [West](https://github.com/ohnorobo/WhereInTheWorldIsWikipedia/blob/master/markdown/languages/West-Vlams.md)
+· [West-Vlams](https://github.com/ohnorobo/WhereInTheWorldIsWikipedia/blob/master/markdown/languages/West-Vlams.md)
 · [Western Frisian](https://github.com/ohnorobo/WhereInTheWorldIsWikipedia/blob/master/markdown/languages/Western Frisian.md)
 · [Western Punjabi](https://github.com/ohnorobo/WhereInTheWorldIsWikipedia/blob/master/markdown/languages/Western Punjabi.md)
 · [Wolof](https://github.com/ohnorobo/WhereInTheWorldIsWikipedia/blob/master/markdown/languages/Wolof.md)

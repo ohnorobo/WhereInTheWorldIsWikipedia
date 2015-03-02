@@ -5,4 +5,3 @@
 ![](/images/Arabic-ar.wikisource.org.png)
 ![](/images/Arabic-ar.wikiversity.org.png)
 ![](/images/Arabic-ar.wiktionary.org.png)
-![](/images/Egyptian Spoken Arabic-arz.wikipedia.org.png)

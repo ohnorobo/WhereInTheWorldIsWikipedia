@@ -6,7 +6,3 @@
 ![](/images/German-de.wikiversity.org.png)
 ![](/images/German-de.wikivoyage.org.png)
 ![](/images/German-de.wiktionary.org.png)
-![](/images/Low German-nds.wikibooks.org.png)
-![](/images/Low German-nds.wikipedia.org.png)
-![](/images/Low German-nds.wikiquote.org.png)
-![](/images/Low German-nds.wiktionary.org.png)

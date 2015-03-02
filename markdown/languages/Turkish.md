@@ -1,4 +1,3 @@
-![](/images/Crimean Turkish-crh.wikipedia.org.png)
 ![](/images/Turkish-tr.wikibooks.org.png)
 ![](/images/Turkish-tr.wikinews.org.png)
 ![](/images/Turkish-tr.wikipedia.org.png)
