@@ -1,1 +1,1 @@
-![](images/Tumbuka-tum.wikipedia.org.png)
+![](/images/Tumbuka-tum.wikipedia.org.png)

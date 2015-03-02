@@ -1,1 +1,1 @@
-![](images/Papiamento-pap.wikipedia.org.png)
+![](/images/Papiamento-pap.wikipedia.org.png)

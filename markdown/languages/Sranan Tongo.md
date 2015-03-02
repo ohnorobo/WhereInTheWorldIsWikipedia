@@ -1,1 +1,1 @@
-![](images/Sranan Tongo-srn.wikipedia.org.png)
+![](/images/Sranan Tongo-srn.wikipedia.org.png)

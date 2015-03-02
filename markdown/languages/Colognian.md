@@ -1,1 +1,1 @@
-![](images/Colognian-ksh.wikipedia.org.png)
+![](/images/Colognian-ksh.wikipedia.org.png)

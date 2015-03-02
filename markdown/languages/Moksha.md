@@ -1,1 +1,1 @@
-![](images/Moksha-mdf.wikipedia.org.png)
+![](/images/Moksha-mdf.wikipedia.org.png)

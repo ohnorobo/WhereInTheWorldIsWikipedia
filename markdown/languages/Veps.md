@@ -1,1 +1,1 @@
-![](images/Veps-vep.wikipedia.org.png)
+![](/images/Veps-vep.wikipedia.org.png)

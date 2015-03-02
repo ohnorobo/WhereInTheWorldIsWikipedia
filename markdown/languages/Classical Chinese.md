@@ -1,1 +1,1 @@
-![](images/Classical Chinese-zh-classical.wikipedia.org.png)
+![](/images/Classical Chinese-zh-classical.wikipedia.org.png)

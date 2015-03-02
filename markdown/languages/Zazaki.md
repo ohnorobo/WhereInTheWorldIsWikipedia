@@ -1,1 +1,1 @@
-![](images/Zazaki-diq.wikipedia.org.png)
+![](/images/Zazaki-diq.wikipedia.org.png)

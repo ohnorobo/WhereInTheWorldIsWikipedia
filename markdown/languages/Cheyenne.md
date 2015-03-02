@@ -1,1 +1,1 @@
-![](images/Cheyenne-chy.wikipedia.org.png)
+![](/images/Cheyenne-chy.wikipedia.org.png)

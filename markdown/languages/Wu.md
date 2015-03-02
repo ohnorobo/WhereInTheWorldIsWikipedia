@@ -1,1 +1,1 @@
-![](images/Wu-wuu.wikipedia.org.png)
+![](/images/Wu-wuu.wikipedia.org.png)

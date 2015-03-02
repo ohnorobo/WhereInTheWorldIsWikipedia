@@ -1,1 +1,1 @@
-![](images/Egyptian Spoken Arabic-arz.wikipedia.org.png)
+![](/images/Egyptian Spoken Arabic-arz.wikipedia.org.png)

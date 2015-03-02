@@ -1,1 +1,1 @@
-![](images/Ligure-lij.wikipedia.org.png)
+![](/images/Ligure-lij.wikipedia.org.png)

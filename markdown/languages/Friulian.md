@@ -1,1 +1,1 @@
-![](images/Friulian-fur.wikipedia.org.png)
+![](/images/Friulian-fur.wikipedia.org.png)

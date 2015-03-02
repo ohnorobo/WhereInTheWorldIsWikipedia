@@ -1,1 +1,1 @@
-![](images/Piedmontese-pms.wikipedia.org.png)
+![](/images/Piedmontese-pms.wikipedia.org.png)

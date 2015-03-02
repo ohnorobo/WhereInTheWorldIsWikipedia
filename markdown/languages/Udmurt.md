@@ -1,1 +1,1 @@
-![](images/Udmurt-udm.wikipedia.org.png)
+![](/images/Udmurt-udm.wikipedia.org.png)

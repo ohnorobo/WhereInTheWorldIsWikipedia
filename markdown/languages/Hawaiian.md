@@ -1,1 +1,1 @@
-![](images/Hawaiian-haw.wikipedia.org.png)
+![](/images/Hawaiian-haw.wikipedia.org.png)

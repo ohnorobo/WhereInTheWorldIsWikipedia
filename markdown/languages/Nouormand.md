@@ -1,1 +1,1 @@
-![](images/Nouormand-nrm.wikipedia.org.png)
+![](/images/Nouormand-nrm.wikipedia.org.png)

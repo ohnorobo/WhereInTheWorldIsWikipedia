@@ -1,1 +1,1 @@
-![](images/Gagauz-gag.wikipedia.org.png)
+![](/images/Gagauz-gag.wikipedia.org.png)

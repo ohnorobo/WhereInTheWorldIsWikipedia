@@ -1,1 +1,1 @@
-![](images/Iloko-ilo.wikipedia.org.png)
+![](/images/Iloko-ilo.wikipedia.org.png)

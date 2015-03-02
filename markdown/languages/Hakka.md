@@ -1,1 +1,1 @@
-![](images/Hakka-hak.wikipedia.org.png)
+![](/images/Hakka-hak.wikipedia.org.png)

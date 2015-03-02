@@ -1,1 +1,1 @@
-![](images/Herero-hz.wikipedia.org.png)
+![](/images/Herero-hz.wikipedia.org.png)

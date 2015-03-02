@@ -1,1 +1,1 @@
-![](images/Min Dong Chinese-cdo.wikipedia.org.png)
+![](/images/Min Dong Chinese-cdo.wikipedia.org.png)

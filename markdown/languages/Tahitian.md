@@ -1,1 +1,1 @@
-![](images/Tahitian-ty.wikipedia.org.png)
+![](/images/Tahitian-ty.wikipedia.org.png)

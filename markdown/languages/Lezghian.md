@@ -1,1 +1,1 @@
-![](images/Lezghian-lez.wikipedia.org.png)
+![](/images/Lezghian-lez.wikipedia.org.png)

@@ -1,1 +1,1 @@
-![](images/Banjar-bjn.wikipedia.org.png)
+![](/images/Banjar-bjn.wikipedia.org.png)

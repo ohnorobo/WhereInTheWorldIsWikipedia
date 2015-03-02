@@ -1,1 +1,1 @@
-![](images/Fiji Hindi-hif.wikipedia.org.png)
+![](/images/Fiji Hindi-hif.wikipedia.org.png)

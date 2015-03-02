@@ -1,1 +1,1 @@
-![](images/Kabyle-kab.wikipedia.org.png)
+![](/images/Kabyle-kab.wikipedia.org.png)

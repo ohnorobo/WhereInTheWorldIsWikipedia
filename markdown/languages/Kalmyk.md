@@ -1,1 +1,1 @@
-![](images/Kalmyk-xal.wikipedia.org.png)
+![](/images/Kalmyk-xal.wikipedia.org.png)

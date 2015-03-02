@@ -1,1 +1,1 @@
-![](images/Kuanyama-kj.wikipedia.org.png)
+![](/images/Kuanyama-kj.wikipedia.org.png)

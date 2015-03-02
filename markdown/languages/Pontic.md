@@ -1,1 +1,1 @@
-![](images/Pontic-pnt.wikipedia.org.png)
+![](/images/Pontic-pnt.wikipedia.org.png)

@@ -1,1 +1,1 @@
-![](images/Mazanderani-mzn.wikipedia.org.png)
+![](/images/Mazanderani-mzn.wikipedia.org.png)

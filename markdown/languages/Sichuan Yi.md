@@ -1,1 +1,1 @@
-![](images/Sichuan Yi-ii.wikipedia.org.png)
+![](/images/Sichuan Yi-ii.wikipedia.org.png)

@@ -1,1 +1,1 @@
-![](images/Kikuyu-ki.wikipedia.org.png)
+![](/images/Kikuyu-ki.wikipedia.org.png)

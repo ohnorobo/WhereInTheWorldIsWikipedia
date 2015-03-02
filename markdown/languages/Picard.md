@@ -1,1 +1,1 @@
-![](images/Picard-pcd.wikipedia.org.png)
+![](/images/Picard-pcd.wikipedia.org.png)

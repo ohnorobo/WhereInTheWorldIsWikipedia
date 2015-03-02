@@ -1,1 +1,1 @@
-![](images/Gilaki-glk.wikipedia.org.png)
+![](/images/Gilaki-glk.wikipedia.org.png)

@@ -1,1 +1,1 @@
-![](images/Pampanga-pam.wikipedia.org.png)
+![](/images/Pampanga-pam.wikipedia.org.png)

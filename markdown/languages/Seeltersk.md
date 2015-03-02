@@ -1,1 +1,1 @@
-![](images/Seeltersk-stq.wikipedia.org.png)
+![](/images/Seeltersk-stq.wikipedia.org.png)

@@ -1,1 +1,1 @@
-![](images/Rusyn-rue.wikipedia.org.png)
+![](/images/Rusyn-rue.wikipedia.org.png)

@@ -1,1 +1,1 @@
-![](images/Ladino-lad.wikipedia.org.png)
+![](/images/Ladino-lad.wikipedia.org.png)

@@ -1,2 +1,2 @@
-![](images/Samoan-sm.wikipedia.org.png)
-![](images/Samoan-sm.wiktionary.org.png)
+![](/images/Samoan-sm.wikipedia.org.png)
+![](/images/Samoan-sm.wiktionary.org.png)

@@ -1,1 +1,1 @@
-![](images/Bavarian-bar.wikipedia.org.png)
+![](/images/Bavarian-bar.wikipedia.org.png)

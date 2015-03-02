@@ -1,1 +1,1 @@
-![](images/Kongo-kg.wikipedia.org.png)
+![](/images/Kongo-kg.wikipedia.org.png)

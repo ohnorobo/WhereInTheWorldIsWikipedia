@@ -1,1 +1,1 @@
-![](images/Latgalian-ltg.wikipedia.org.png)
+![](/images/Latgalian-ltg.wikipedia.org.png)

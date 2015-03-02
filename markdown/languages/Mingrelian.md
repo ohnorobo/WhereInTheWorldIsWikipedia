@@ -1,1 +1,1 @@
-![](images/Mingrelian-xmf.wikipedia.org.png)
+![](/images/Mingrelian-xmf.wikipedia.org.png)

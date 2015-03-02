@@ -1,1 +1,1 @@
-![](images/Waray-war.wikipedia.org.png)
+![](/images/Waray-war.wikipedia.org.png)

@@ -1,1 +1,1 @@
-![](images/Silesian-szl.wikipedia.org.png)
+![](/images/Silesian-szl.wikipedia.org.png)

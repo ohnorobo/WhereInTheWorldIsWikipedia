@@ -1,1 +1,1 @@
-![](images/Kabardian-kbd.wikipedia.org.png)
+![](/images/Kabardian-kbd.wikipedia.org.png)

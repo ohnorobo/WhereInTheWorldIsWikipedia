@@ -1,1 +1,1 @@
-![](images/All projects-All projects.png)
+![](/images/All projects-All projects.png)

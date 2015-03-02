@@ -1,1 +1,1 @@
-![](images/Basa Banyumasan-map-bms.wikipedia.org.png)
+![](/images/Basa Banyumasan-map-bms.wikipedia.org.png)

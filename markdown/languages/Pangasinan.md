@@ -1,1 +1,1 @@
-![](images/Pangasinan-pag.wikipedia.org.png)
+![](/images/Pangasinan-pag.wikipedia.org.png)

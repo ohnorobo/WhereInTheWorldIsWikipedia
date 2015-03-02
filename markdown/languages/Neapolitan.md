@@ -1,1 +1,1 @@
-![](images/Neapolitan-nap.wikipedia.org.png)
+![](/images/Neapolitan-nap.wikipedia.org.png)

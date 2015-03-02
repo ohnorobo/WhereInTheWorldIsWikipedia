@@ -1,1 +1,1 @@
-![](images/Achinese-ace.wikipedia.org.png)
+![](/images/Achinese-ace.wikipedia.org.png)

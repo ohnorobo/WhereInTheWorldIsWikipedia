@@ -1,1 +1,1 @@
-![](images/Mirandese-mwl.wikipedia.org.png)
+![](/images/Mirandese-mwl.wikipedia.org.png)

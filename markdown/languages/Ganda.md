@@ -1,1 +1,1 @@
-![](images/Ganda-lg.wikipedia.org.png)
+![](/images/Ganda-lg.wikipedia.org.png)

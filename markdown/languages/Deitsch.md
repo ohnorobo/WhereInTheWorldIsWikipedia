@@ -1,1 +1,1 @@
-![](images/Deitsch-pdc.wikipedia.org.png)
+![](/images/Deitsch-pdc.wikipedia.org.png)

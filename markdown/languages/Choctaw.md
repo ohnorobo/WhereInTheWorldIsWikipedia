@@ -1,1 +1,1 @@
-![](images/Choctaw-cho.wikipedia.org.png)
+![](/images/Choctaw-cho.wikipedia.org.png)

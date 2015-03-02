@@ -1,1 +1,1 @@
-![](images/Fulah-ff.wikipedia.org.png)
+![](/images/Fulah-ff.wikipedia.org.png)

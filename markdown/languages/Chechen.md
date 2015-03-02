@@ -1,1 +1,1 @@
-![](images/Chechen-ce.wikipedia.org.png)
+![](/images/Chechen-ce.wikipedia.org.png)

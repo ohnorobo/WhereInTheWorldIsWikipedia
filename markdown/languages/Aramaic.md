@@ -1,1 +1,1 @@
-![](images/Aramaic-arc.wikipedia.org.png)
+![](/images/Aramaic-arc.wikipedia.org.png)

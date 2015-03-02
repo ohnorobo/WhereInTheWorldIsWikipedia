@@ -1,1 +1,1 @@
-![](images/Creek-mus.wikipedia.org.png)
+![](/images/Creek-mus.wikipedia.org.png)

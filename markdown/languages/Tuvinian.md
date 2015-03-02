@@ -1,1 +1,1 @@
-![](images/Tuvinian-tyv.wikipedia.org.png)
+![](/images/Tuvinian-tyv.wikipedia.org.png)

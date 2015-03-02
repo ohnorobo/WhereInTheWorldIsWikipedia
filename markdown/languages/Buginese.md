@@ -1,1 +1,1 @@
-![](images/Buginese-bug.wikipedia.org.png)
+![](/images/Buginese-bug.wikipedia.org.png)

@@ -1,1 +1,1 @@
-![](images/Samogitian-bat-smg.wikipedia.org.png)
+![](/images/Samogitian-bat-smg.wikipedia.org.png)

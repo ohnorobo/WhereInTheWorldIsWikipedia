@@ -1,1 +1,1 @@
-![](images/Ossetic-os.wikipedia.org.png)
+![](/images/Ossetic-os.wikipedia.org.png)

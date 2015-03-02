@@ -1,1 +1,1 @@
-![](images/Venda-ve.wikipedia.org.png)
+![](/images/Venda-ve.wikipedia.org.png)

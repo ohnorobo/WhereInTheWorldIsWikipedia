@@ -1,1 +1,1 @@
-![](images/Northern Sotho-nso.wikipedia.org.png)
+![](/images/Northern Sotho-nso.wikipedia.org.png)

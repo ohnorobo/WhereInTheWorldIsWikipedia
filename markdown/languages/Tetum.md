@@ -1,1 +1,1 @@
-![](images/Tetum-tet.wikipedia.org.png)
+![](/images/Tetum-tet.wikipedia.org.png)

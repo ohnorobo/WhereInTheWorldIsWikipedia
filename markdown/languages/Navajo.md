@@ -1,1 +1,1 @@
-![](images/Navajo-nv.wikipedia.org.png)
+![](/images/Navajo-nv.wikipedia.org.png)

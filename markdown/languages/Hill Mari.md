@@ -1,1 +1,1 @@
-![](images/Hill Mari-mrj.wikipedia.org.png)
+![](/images/Hill Mari-mrj.wikipedia.org.png)

@@ -1,1 +1,1 @@
-![](images/Nyanja-ny.wikipedia.org.png)
+![](/images/Nyanja-ny.wikipedia.org.png)

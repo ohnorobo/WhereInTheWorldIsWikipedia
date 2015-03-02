@@ -1,1 +1,1 @@
-![](images/Novial-nov.wikipedia.org.png)
+![](/images/Novial-nov.wikipedia.org.png)

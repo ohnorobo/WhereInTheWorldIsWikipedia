@@ -1,1 +1,1 @@
-![](images/Extremaduran-ext.wikipedia.org.png)
+![](/images/Extremaduran-ext.wikipedia.org.png)

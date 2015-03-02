@@ -1,1 +1,1 @@
-![](images/Lower Sorbian-dsb.wikipedia.org.png)
+![](/images/Lower Sorbian-dsb.wikipedia.org.png)

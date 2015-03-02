@@ -1,1 +1,1 @@
-![](images/Emiliano-Romagnolo-eml.wikipedia.org.png)
+![](/images/Emiliano-Romagnolo-eml.wikipedia.org.png)

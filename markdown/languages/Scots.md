@@ -1,1 +1,1 @@
-![](images/Scots-sco.wikipedia.org.png)
+![](/images/Scots-sco.wikipedia.org.png)

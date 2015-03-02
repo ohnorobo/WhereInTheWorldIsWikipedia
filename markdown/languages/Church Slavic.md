@@ -1,1 +1,1 @@
-![](images/Church Slavic-cu.wikipedia.org.png)
+![](/images/Church Slavic-cu.wikipedia.org.png)

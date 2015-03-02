@@ -1,1 +1,1 @@
-![](images/Norfuk Pitkern-pih.wikipedia.org.png)
+![](/images/Norfuk Pitkern-pih.wikipedia.org.png)

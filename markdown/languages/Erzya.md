@@ -1,1 +1,1 @@
-![](images/Erzya-myv.wikipedia.org.png)
+![](/images/Erzya-myv.wikipedia.org.png)

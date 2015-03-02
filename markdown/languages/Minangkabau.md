@@ -1,1 +1,1 @@
-![](images/Minangkabau-min.wikipedia.org.png)
+![](/images/Minangkabau-min.wikipedia.org.png)

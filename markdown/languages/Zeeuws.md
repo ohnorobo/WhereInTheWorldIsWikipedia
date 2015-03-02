@@ -1,1 +1,1 @@
-![](images/Zeeuws-zea.wikipedia.org.png)
+![](/images/Zeeuws-zea.wikipedia.org.png)

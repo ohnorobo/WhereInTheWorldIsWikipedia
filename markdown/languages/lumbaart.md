@@ -1,1 +1,1 @@
-![](images/lumbaart-lmo.wikipedia.org.png)
+![](/images/lumbaart-lmo.wikipedia.org.png)

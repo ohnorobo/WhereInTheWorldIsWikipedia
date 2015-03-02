@@ -1,1 +1,1 @@
-![](images/Newari-new.wikipedia.org.png)
+![](/images/Newari-new.wikipedia.org.png)

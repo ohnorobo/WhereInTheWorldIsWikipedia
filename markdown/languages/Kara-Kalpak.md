@@ -1,1 +1,1 @@
-![](images/Kara-Kalpak-kaa.wikipedia.org.png)
+![](/images/Kara-Kalpak-kaa.wikipedia.org.png)

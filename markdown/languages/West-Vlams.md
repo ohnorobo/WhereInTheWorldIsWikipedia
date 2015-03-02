@@ -1,1 +1,1 @@
-![](images/West-Vlams-vls.wikipedia.org.png)
+![](/images/West-Vlams-vls.wikipedia.org.png)

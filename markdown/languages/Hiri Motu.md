@@ -1,1 +1,1 @@
-![](images/Hiri Motu-ho.wikipedia.org.png)
+![](/images/Hiri Motu-ho.wikipedia.org.png)

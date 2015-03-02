@@ -1,1 +1,1 @@
-![](images/Low Saxon (Netherlands)-nds-nl.wikipedia.org.png)
+![](/images/Low Saxon (Netherlands)-nds-nl.wikipedia.org.png)
