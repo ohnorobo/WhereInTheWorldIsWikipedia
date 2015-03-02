@@ -1,1 +1,6 @@
-![](/images/)
+![](/images/Norwegian (bokmål)-no.wikibooks.org.png)
+![](/images/Norwegian (bokmål)-no.wikinews.org.png)
+![](/images/Norwegian (bokmål)-no.wikipedia.org.png)
+![](/images/Norwegian (bokmål)-no.wikiquote.org.png)
+![](/images/Norwegian (bokmål)-no.wikisource.org.png)
+![](/images/Norwegian (bokmål)-no.wiktionary.org.png)
